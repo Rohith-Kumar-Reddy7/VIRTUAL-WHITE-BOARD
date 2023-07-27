@@ -31,7 +31,7 @@ their thoughts and ideas by drawing them on the white board.The Virtual White Bo
 
 ## Sample Screenshot taken while meeting was going on(For testing both host and guest are have attended from same system)
 
-![virtual_board](https://github.com/Rohith-Kumar-Reddy7/VIRTUAL-WHITE-BOARD/assets/130598135/d61c4b98-794a-410a-b62c-2c59d569a31a)
+![virtual_board](sample_screenshots/VirtualWhiteBoard_Screenshot.JPG)
 
 
 
