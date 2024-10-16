@@ -29,13 +29,13 @@ their thoughts and ideas by drawing them on the white board.The Virtual White Bo
 5. After that terminal will prompt for the port using which the guest would like to join the meeting.
 6. Now the a window with white background would be visible,the background would immediately start showing the content that the host has written.
 
-## Sample Screenshot taken while meeting was going on(For testing both host and guest are have attended from same system)
+## Sample Screenshot taken while meeting was going on(For testing both host and guest  have attended the meeting from same system)
 
 ![virtual_board](sample_screenshots/VirtualWhiteBoard_Screenshot.JPG)
 
 
 
-## Usecases of this application
+## Use cases of this application
 1. A manager in a company wants to conduct a market research analysis session with his/her employees,but assembling all of them in a meeting room will take time.In this case the manager can just inform their employees to join a skype or any audio/video conferencing platform and start this application and immediately deliver his ideas to his employees.
 2. A professor conducting a lab session to your students,he/she needs to deliver some key concepts before the students start implementing in the lab,using a physical board to deliver those concepts is not a good idea because not everyone will have a nice view of board.In this case the professor will start this application and declare his private IP address to students and all students can join the meeting ,now all of them can clearly see the virtual board on their screen clearly.
 
